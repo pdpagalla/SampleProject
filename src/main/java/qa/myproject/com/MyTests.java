@@ -35,18 +35,18 @@ public class MyTests extends CommonLibs{
 	
 	}
 	
-	@AfterTest
+	@AfterMethod
 	public static void afterMethod(){
 		driver.close();
 	}
 	
-	@Test(priority=1)
+	@Test(priority=2)
 	public static void loginValid(){
 		enterCredentials(username, password);
 		
 	}
 	
-	@Test
+	@Test(priority=1)
 	public static void loginInvalid(){
 		enterCredentials(ivalidUsername,invalidPassword);
 	}
