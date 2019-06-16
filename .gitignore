@@ -1,0 +1,4 @@
+
+target/classes/META-INF/maven/SampleProject/SampleProject/pom.properties
+*.properties
+*.html

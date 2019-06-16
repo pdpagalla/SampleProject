@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35922" started-at="2019-06-16T08:21:46Z" finished-at="2019-06-16T08:22:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35922" started-at="2019-06-16T08:21:46Z" finished-at="2019-06-16T08:22:22Z">
+      <class name="qa.myproject.com.MyTests">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="beforeMethod" is-config="true" duration-ms="12062" started-at="2019-06-16T08:21:46Z" finished-at="2019-06-16T08:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="alerts()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="alerts" duration-ms="1384" started-at="2019-06-16T08:21:58Z" finished-at="2019-06-16T08:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerts -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="afterMethod" is-config="true" duration-ms="532" started-at="2019-06-16T08:22:00Z" finished-at="2019-06-16T08:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="beforeMethod" is-config="true" duration-ms="7902" started-at="2019-06-16T08:22:00Z" finished-at="2019-06-16T08:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginInvalid()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="loginInvalid" duration-ms="1414" started-at="2019-06-16T08:22:08Z" finished-at="2019-06-16T08:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginInvalid -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="afterMethod" is-config="true" duration-ms="515" started-at="2019-06-16T08:22:09Z" finished-at="2019-06-16T08:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="beforeMethod" is-config="true" duration-ms="8349" started-at="2019-06-16T08:22:10Z" finished-at="2019-06-16T08:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginValid()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="loginValid" duration-ms="1309" started-at="2019-06-16T08:22:18Z" finished-at="2019-06-16T08:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValid -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:qa.myproject.com.MyTests@39c0f4a]" name="afterMethod" is-config="true" duration-ms="2392" started-at="2019-06-16T08:22:20Z" finished-at="2019-06-16T08:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- qa.myproject.com.MyTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
